@@ -1,0 +1,138 @@
+.links{
+margin-left: 45%;
+
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: springgreen;
+}  
+input:hover{
+    color: red;
+}
+input:active{
+    color: springgreen;
+}
+
+
+
+img{
+margin: 2% 10%;
+width: 80%;
+height: 200px;
+
+}
+
+.button{
+position: relative;
+left: 85%;
+
+
+
+}
+body{
+    margin: 0%;
+}
+
+
+
+#p1{
+text-align: center;
+background-color: lightblue;
+border-radius: 5px;
+width: 40%;
+position: relative;
+left: 30%;
+}
+#p2{
+    background-color: darkkhaki;
+margin-right: 70%;
+padding: 3.5%;
+
+}
+
+#p3{
+background-color: darkkhaki;
+margin-left: 70%;
+padding: 1.5%;
+position: relative;
+bottom: 220px;
+}
+
+
+
+a{
+text-align: center;
+text-decoration: none;
+
+}
+
+
+
+
+
+H3{
+    text-align: center;
+}
+form{
+    text-align: center;
+    margin:50px 0px; 
+    padding:0px;
+    text-align:center;
+    align:center;
+}
+
+
+.uki{
+    background-color:lightskyblue;
+}
+
+
+fieldset{
+    display: inline-block;
+background-color: lightblue;
+}
+
+
+#blue{
+    background-color: rgb(35, 33, 121);
+    
+    }
+    .lib{
+    
+        background-color:lightblue;  
+    }
+    .yoga{
+        background-color: lightskyblue;
+    }
+    .coach{
+    
+        background-color: yellow;
+    }
+    .eng{
+        background-color: tomato;
+    }
+    .program{
+    background-color: violet;
+    
+    }
+    .green{
+        background-color: green;
+    }
+    .last{
+    background-color: orange;
+    
+    }
+    .red{
+    background-color: red;
+    
+    }
+    td,th{
+        border: 1px black solid;
+    
+    }
+    table{
+        border-collapse: collapse;
+        border: black;
+    }

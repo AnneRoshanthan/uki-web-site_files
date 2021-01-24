@@ -1,0 +1,25 @@
+H3{
+    text-align: center;
+}
+form{
+    text-align: center;
+   
+}
+
+
+.uki{
+    background-color:lightskyblue;
+}
+
+
+body {
+    margin:50px 0px; 
+    padding:0px;
+    text-align:center;
+    align:center;
+}
+
+fieldset{
+    display: inline-block;
+background-color: lightblue;
+}

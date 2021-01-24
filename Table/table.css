@@ -1,0 +1,43 @@
+#blue{
+background-color: rgb(35, 33, 121);
+
+}
+.lib{
+
+    background-color:lightblue;  
+}
+.yoga{
+    background-color: lightskyblue;
+}
+.coach{
+
+    background-color: yellow;
+}
+.eng{
+    background-color: tomato;
+}
+.program{
+background-color: violet;
+
+}
+.green{
+    background-color: green;
+}
+.last{
+background-color: orange;
+
+}
+.red{
+background-color: red;
+
+}
+td,th{
+    border: 1px black solid;
+
+}
+table{
+border-collapse: collapse;
+border: black;
+
+
+}
